@@ -7,3 +7,6 @@ xhofe/alist:latest
 
 whyour/qinglong
 redis
+
+atmoz/sftp
+fauria/vsftpd
