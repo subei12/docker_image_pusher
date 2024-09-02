@@ -10,3 +10,5 @@ redis
 
 atmoz/sftp
 fauria/vsftpd
+
+clickhouse/clickhouse-server
