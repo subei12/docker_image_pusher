@@ -1,3 +1,5 @@
+keking/kkfileview:4.1.0
+
 nginx
 #支持私库
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
@@ -13,4 +15,4 @@ fauria/vsftpd
 
 clickhouse/clickhouse-server
 
-keking/kkfileview:4.1.0
+
