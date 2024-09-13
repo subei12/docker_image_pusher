@@ -12,3 +12,5 @@ atmoz/sftp
 fauria/vsftpd
 
 clickhouse/clickhouse-server
+
+keking/kkfileview:4.1.0
